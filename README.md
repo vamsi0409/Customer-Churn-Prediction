@@ -3,7 +3,8 @@
 ## Project Overview
 Analyzed 7,032 customer records to identify churn drivers and predict 
 customer churn using machine learning models.
-
+## Dashboard
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/vamsi.batchu8113/viz/CustomerChurnAnalysis_17797607527530/CustomerChurnAnalysisDashboard)
 ## Key Findings
 - Overall churn rate: **26.6%**
 - Month-to-month contract churn: **42.7%** vs 2.8% for two-year contracts
