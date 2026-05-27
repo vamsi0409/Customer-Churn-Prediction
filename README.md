@@ -32,6 +32,8 @@ customer churn using machine learning models.
 
 ## Files
 - `churn_analysis.py` — Complete Python analysis and ML models
+- `churn_queries.sql` — 8 SQL business queries
+- `run_sql.py` — SQL execution script
 - `churn_by_contract.png` — Churn rate by contract type chart
 - `feature_importance.png` — Top 5 churn predictors chart
 - `churn_clean.csv` — Cleaned dataset for dashboard
