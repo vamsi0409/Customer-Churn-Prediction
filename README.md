@@ -27,9 +27,8 @@ customer churn using machine learning models.
 
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib, Scikit-learn)
-- SQL
+- SQL 
 - Tableau
-- Power BI
 
 ## Files
 - `churn_analysis.py` — Complete Python analysis and ML models
